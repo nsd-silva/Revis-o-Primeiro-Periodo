@@ -1,0 +1,14 @@
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\bin\Debug\net8.0\SEGUNDA-MISSAO.exe
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\bin\Debug\net8.0\SEGUNDA-MISSAO.deps.json
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\bin\Debug\net8.0\SEGUNDA-MISSAO.runtimeconfig.json
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\bin\Debug\net8.0\SEGUNDA-MISSAO.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\bin\Debug\net8.0\SEGUNDA-MISSAO.pdb
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.AssemblyInfoInputs.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.AssemblyInfo.cs
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.csproj.CoreCompileInputs.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\refint\SEGUNDA-MISSAO.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.pdb
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\SEGUNDA-MISSAO.genruntimeconfig.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\SEGUNDA-MISSAO\obj\Debug\net8.0\ref\SEGUNDA-MISSAO.dll
