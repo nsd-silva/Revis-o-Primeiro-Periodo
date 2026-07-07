@@ -1,0 +1,15 @@
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.AssemblyInfoInputs.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.AssemblyInfo.cs
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.csproj.CoreCompileInputs.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.sourcelink.json
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\bin\Debug\net8.0\MISSAO-3.exe
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\bin\Debug\net8.0\MISSAO-3.deps.json
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\bin\Debug\net8.0\MISSAO-3.runtimeconfig.json
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\bin\Debug\net8.0\MISSAO-3.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\bin\Debug\net8.0\MISSAO-3.pdb
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\refint\MISSAO-3.dll
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.pdb
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\MISSAO-3.genruntimeconfig.cache
+C:\Users\noten\REVISAO-1-SEMESTRE\MISSAO-3\obj\Debug\net8.0\ref\MISSAO-3.dll
