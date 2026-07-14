@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MISSAO-5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a432135bfd0912fc86304067d9d86441881480e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e84e7dd3e73dcefc2be08d1ca1e4b62bbe752726")]
 [assembly: System.Reflection.AssemblyProductAttribute("MISSAO-5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MISSAO-5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

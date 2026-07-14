@@ -7,6 +7,16 @@ namespace MISSAO_6
         {
             int qtd = LerQtdNmr();
             int[] numeros = LerNmr(qtd);
+            int maior = MaiorNumero(numeros);
+            int menor = MenorNumero(numeros);
+            int soma = CalcularSoma(numeros);
+            double media = (double)soma / qtd;
+
+            Console.WriteLine("Quantidade de números sorteados: {0}", qtd);
+            Console.WriteLine("O maior número sorteado foi: {0}", maior);
+            Console.WriteLine("O menor número sorteado foi: {0}", menor);
+            Console.WriteLine("A soma dos números sorteados foi: {0}", soma);
+            Console.WriteLine("A média dos números sorteados foi: {0:F2}", media);
         }
         static int LerQtdNmr()
         {
@@ -77,5 +87,39 @@ namespace MISSAO_6
 
             return numeros;
         }
+        static int MaiorNumero(int[] numeros)
+        {
+            int maior = numeros[0];
+            for(int i = 1; i < numeros.Length; i++)
+            {
+                if(numeros[i] > maior)
+                {
+                    maior = numeros[i];
+                }
+            }
+            return maior;
+        }
+        static int MenorNumero(int[] numeros)
+        {
+            int menor = numeros[0];
+            for(int i = 1; i < numeros.Length; i++)
+            {
+                if(numeros[i] < menor)
+                {
+                    menor = numeros[i];
+                }
+            }
+            return menor;
+        }
+        static int CalcularSoma(int[] numeros)
+        {
+            int soma = 0;
+            for(int i = 0; i < numeros.Length; i++)
+            {
+                soma += numeros[i];
+            }
+            return soma;
+        }
+
     }
 }
