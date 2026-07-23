@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRIMEIRA-MISSAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e65a2fccca884ff9e338939df29225eeaa67afb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8edf0e781a57edd63d81e564fd8eb46f7507f09f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRIMEIRA-MISSAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRIMEIRA-MISSAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
