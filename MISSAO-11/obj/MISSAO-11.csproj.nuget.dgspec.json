@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-9\\MISSAO-9.csproj": {}
+    "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-11\\MISSAO-11.csproj": {}
   },
   "projects": {
-    "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-9\\MISSAO-9.csproj": {
+    "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-11\\MISSAO-11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-9\\MISSAO-9.csproj",
-        "projectName": "MISSAO-9",
-        "projectPath": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-9\\MISSAO-9.csproj",
+        "projectUniqueName": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-11\\MISSAO-11.csproj",
+        "projectName": "MISSAO-11",
+        "projectPath": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-11\\MISSAO-11.csproj",
         "packagesPath": "C:\\Users\\noten\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-9\\obj\\",
+        "outputPath": "c:\\Users\\noten\\REVISAO-1-SEMESTRE\\MISSAO-11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noten\\AppData\\Roaming\\NuGet\\NuGet.Config"
